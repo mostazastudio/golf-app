@@ -1,0 +1,27 @@
+[
+	{
+		"id":0,
+		"golpe":"bueno",
+		"distancia":75
+	},
+	{
+		"id":1,
+		"golpe":"malo",
+		"distancia":null
+	},
+	{
+		"id":2,
+		"golpe":"bueno",
+		"distancia":75
+	},{
+		"id":3,
+		"golpe":"bueno",
+		"distancia":75
+	},{
+		"id":4,
+		"golpe":"malo",
+		"distancia":null
+	}
+
+
+]

@@ -1,0 +1,27 @@
+.form-switch.form-switch-lg {
+  margin-bottom: 1.5rem; /* JUST FOR STYLING PURPOSE */
+}
+
+.form-switch.form-switch-lg .form-check-input {
+  height: 2rem;
+  width: calc(3rem + 0.75rem);
+  border-radius: 4rem;
+}
+
+#div_boton{
+  margin-top: 40px;
+  margin-bottom:  40px;
+}
+
+#div_radios{
+  margin-top: 40px;
+}
+
+#div_switch{
+  margin-top: 40px;
+  text-align: center !important;
+}
+
+#flexSwitchCheckDefault{
+  text-align: center !important;
+}
